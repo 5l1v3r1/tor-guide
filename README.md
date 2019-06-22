@@ -390,7 +390,7 @@ These websites are on a "greyish area" of wether they really exist or not. Hitma
 
 ##### PW
 #### Hacker/Pirating‌‌ Websites
-These sorts of websites are in a grey area as well, but for different reasins. Someone websites explain saftey on TOR or release information of code that have been hidden from the public, which may contain major exploits that need to be patched. You could debate whether sharing malicious code could be bad or good, as the code itself, when shared publically through TOR services, means there can be a patch found for it as well. On the other hand there are also hacker sites such as ones that allow users to hire hackers, buy/download pirated products, etc. 
+These sorts of websites are in a grey area as well, but for different reasons. Someone websites explain saftey on TOR or release information of code that have been hidden from the public, which may contain major exploits that need to be patched. You could debate whether sharing malicious code could be bad or good, as the code itself, when shared publically through TOR services, means there can be a patch found for it as well. On the other hand there are also hacker sites such as ones that allow users to hire hackers, buy/download pirated products, etc. 
 
 ##### CPW
 #### Child/Animal‌‌ Pornography/Abuse Websites
