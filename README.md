@@ -2,6 +2,8 @@
 
 This is a documentary on the TOR browser, parts of the web, how to stay anonymous, debunking false accusations, etc. 
 
+**I AM NOT RESONSIBLE FOR ANYTHING YOU DO WITH THIS INFORMATION. AUTHORS AND CONTRIBUTORS ARE NOT RESPONSIBLE FOR YOUR DESCISIONS!**
+
 ![tor logo](https://www.vpnmentor.com/wp-content/uploads/2017/03/Everything-you-need-to-know-about-Tor.png)
 
 ------------------------------------------------------------------------
@@ -49,6 +51,7 @@ This is a documentary on the TOR browser, parts of the web, how to stay anonymou
 * * * * [Child/Animal Pornography/Abuse Websites](#CP)
 * * * * [Medication/Drug Websites](#DW)
 * * * * [Gun/Firearm Websites ](#FW)
+* [Summary](#Summary)
 * [Resources](#Resources)
 * [Contributing](#Contributing)
 
@@ -406,6 +409,21 @@ Yes, there are websites where you can buy illegal/legal firearms and have them s
 
 ------------------------------------------------------------------------
 
+## Summary
+
+Remember to follow and read through everything I had said.
+* Understand what the web is and the three parts of it.
+* Remember how the Onion Routing Protocol works.
+* Remember to use a secure operating system such a Linux.
+* Download TOR.
+* Remember that many sites are scams.
+* Don't post anything about yourself.
+* Remember the types of Good and Bad websites on Tor. (Don't go on the bad ones. For your own sake.)
+* Remember to be safe online and use common sense.
+* Try not to do anything illegal.
+* Have fun. :)
+
+------------------------------------------------------------------------
 ## Resources
 
 **The Internet VS The Web**
