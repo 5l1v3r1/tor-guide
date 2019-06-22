@@ -418,7 +418,8 @@ Remember to follow and read through everything I had said.
 * Download TOR.
 * Remember that many sites are scams.
 * Don't post anything about yourself.
-* Remember the types of Good and Bad websites on Tor. (Don't go on the bad ones. For your own sake.)
+* Remember the types of Good and Bad websites on TOR's hidden .onion services. <br>
+(Don't go on the bad ones. For your own sake.)
 * Remember to be safe online and use common sense.
 * Try not to do anything illegal.
 * Have fun. :)
