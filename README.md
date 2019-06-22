@@ -10,43 +10,45 @@ This is a documentary on the TOR browser, parts of the web, how to stay anonymou
 
 <!-- vim-markdown-toc GFM -->
 
-* [The Internet VS The Web](#The‌‌ Internet‌‌ VS‌‌ The‌‌ Web)
-* * [What is the Internet?](#What is the Internet?)
-* * [What is the Web?](#What is the Web?)
+* [The Internet VS The Web](#TIVTW)
+* * [What is the Internet?](#WITI)
+* * [What is the Web?](#WITW)
 * * * [URLs](#URLs)
-* * * [Server (Normally HTTP)](#Server (Normally HTTP))
-* * [Parts of the Web](#Parts of the Web)
-* * * [The Clear Web](#The Clear Web)
-* * * * [How do I access the Clear Web?](#How do I access the Clear Web?)
-* * * [The Deep Web](#The Deep Web)
-* * * * [How do I access the Dark Web?](#How do I access the Dark Web?)
-* [The TOR Web Browser](#The TOR Web Browser)
-* * [TOR's History](#TOR's History)
-* * [How TOR Works](#How TOR Works)
-* * [Downloading TOR](#Downloading TOR)
-* [Saftey on the Darkweb and Tor](#Saftey on the Darkweb and Tor)
-* * [Operating Systems](#Operating Systems)
+* * * [Server (Normally HTTP)](#SNH)
+* * [Parts of the Web](#POTW)
+* * * [The Clear Web](#TCW)
+* * * * [How do I access the Clear Web?](#HDIATCW)
+* * * [The Deep Web](#TDW)
+* * * * [How do I access the Deep Web?](#HDIATDW)
+* * * [The Dark Web](#TDKW)
+* * * * [How do I access the Dark Web?](#HDIATDKW)
+* [The TOR Web Browser](#TTWB)
+* * [TOR's History](#TH)
+* * [How TOR Works](#HTW)
+* * [Downloading TOR](#DT)
+* [Saftey on the Darkweb and Tor](#SOTDAT)
+* * [Operating Systems](#OS)
 * * * [Windows](#Windows)
-* * * [Mac OS](#Mac OS)
-* * * [iOS/iPhones](#iOS/iPhones)
+* * * [Mac OS](#MOS)
+* * * [iOS/iPhones](#iOS)
 * * * [Android](#Android)
 * * * [Linux](#Linux)
-* * [Common Sense](#Common Sense)
-* * [TOR Security Features](#TOR Security Features)
-* * [Websites on the Darkweb (.onion sites)](#Websites on the Darkweb (.onion sites))
-* * * [Good Websites](#Good Websites)
-* * * * [Hosting Websites](#Hosting Websites)
-* * * * [Medication/Drug Websites](#Medication/Drug Websites)
-* * * * [Government Expose Websites](#Government Expose Websites)
-* * * * [Unfilitered News Sites](#Unfilitered News Sites)
-* * * * [Other](#Other)
-* * * [Bad Websites](#Bad Websites)
-* * * * [Red Rooms](#Red Rooms)
-* * * * [Hitman Websites](#Hitman Websites)
-* * * * [Hacker/Pirating Websites](#Hacker/Pirating Websites)
-* * * * [Child/Animal Pornography/Abuse Websites](#Child/Animal Pornography/Abuse Websites)
-* * * * [Medication/Drug Websites](#Medication/Drug Websites)
-* * * * [Gun/Firearm Websites ](#Gun/Firearm Websites)
+* * [Common Sense](#CS)
+* * [TOR Security Features](#TSF)
+* * [Websites on the Darkweb (.onion sites)](#WOTD)
+* * * [Good Websites](#GW)
+* * * * [Hosting Websites](#HW)
+* * * * [Medication/Drug Websites](#MW)
+* * * * [Government Expose Websites](#GEW)
+* * * * [Unfilitered News Sites](#UNS)
+* * * * [Other](#OTHER)
+* * * [Bad Websites](#BW)
+* * * * [Red Rooms](#RR)
+* * * * [Hitman Websites](#HW)
+* * * * [Hacker/Pirating Websites](#PW)
+* * * * [Child/Animal Pornography/Abuse Websites](#CP)
+* * * * [Medication/Drug Websites](#DW)
+* * * * [Gun/Firearm Websites ](#FW)
 * [Resources](#Resources)
 * [Contributing](#Contributing)
 
@@ -54,6 +56,7 @@ This is a documentary on the TOR browser, parts of the web, how to stay anonymou
 
 ------------------------------------------------------------------------
 
+##### TIVTW
 ## The‌‌‌‌ Internet‌‌‌‌ VS‌‌‌‌ The‌‌ Web
 
 Alright, before we start talking about TOR and the Dark Web. we need to first talk about the basics of the internet and the web. It is a common misinterpretation that the internet and the web are the same thing. 
@@ -62,6 +65,7 @@ Alright, before we start talking about TOR and the Dark Web. we need to first ta
 
 ------------------------------------------------------------------------
 
+##### WITI
 ### What‌‌ is‌‌ the‌‌ Internet?
 
 The ___internet___ is a massive network of networks, millions of computers, devices, and servers all connected globally. 
@@ -74,6 +78,7 @@ Most basic old communication media, including telephony, radio, television, pape
 
 ------------------------------------------------------------------------
 
+##### WITW
 ### What‌‌ is‌‌ the‌‌ Web?
 
 The **Web** (or better known as the "World Wide Web") is *the software that runs on the internet*. Its a way of sharing information across different types of computers. 
@@ -84,6 +89,7 @@ There are two main parts of the web that really make it up.
 
 ------------------------------------------------------------------------
 
+##### URLs
 #### URLs
 
 The **URLs** (Unique Resource Locators) *is normally reffered to as a web address*. URLs allow us to easily find out different webpages by using **DNS** (Domain Name System). This system *allows websites to have a domain (such as www.google.com) to be assigned to a computer*. 
@@ -103,6 +109,7 @@ URLs commonly mean wwebpages that use **HTTP** or **HTTPS** (HyperText Transport
 
 ------------------------------------------------------------------------
 
+##### SNH
 #### Server‌‌ (Normally‌‌ HTTP)
 
 A **server** (in computing) is commonly reffered to as *a system that responds to requests across a computer network worldwide to provide, or help to provide, a network or data service*.
@@ -113,6 +120,7 @@ Servers normally contain web pages or data that you can easily access with the u
 
 ------------------------------------------------------------------------
 
+##### POTW
 ## Parts‌‌ of‌‌ the‌‌ Web
 
 When we mean parts of the web, we are going to be talking about the three parts of it. The **clear**, **deep**, and **dark** web, all of which are very different from one another.
@@ -121,6 +129,7 @@ When we mean parts of the web, we are going to be talking about the three parts 
 
 ------------------------------------------------------------------------
 
+##### TCW
 ### The‌‌ Clear‌‌ Web
 
 The clear web is any website that can be accessed by a search engine.
@@ -131,12 +140,14 @@ Things on the clearweb would be:
 - The gmail sign-in page
 - Wikipedia
 
+##### HDIATCW
 #### How‌‌ do‌‌ I‌‌ access‌‌ the‌‌ Clear‌‌ Web?
 
 Heres a simple way. Go on google (or duckduckgo), type whatever you want in their search engine, and BAM you are now looking at stuff on the clearweb that was given by that specific search engine for that specific topic.
 
 ------------------------------------------------------------------------
 
+##### TDW
 ### The‌‌ Deep‌‌ Web
 
 Most people, funny enough, mistake the Deep Web for the Dark Web. 
@@ -151,6 +162,7 @@ Examples of Deep Web Pages would be:
 (Whether signed in or not, it still uses data to give something pertaining to you only)
 - A private instagram or facebook account
 
+##### HDIATDW
 #### How‌‌ do‌‌ I‌‌ access‌‌ the‌‌ Deep‌‌ Web?
 
 Its very simple. Go on any webpage that requires you to sign in or has specific stuff only pertaining to your computer. 
@@ -161,6 +173,7 @@ Same thing with accounts. If you have a gmail account, I can't just google '[per
 
 ------------------------------------------------------------------------
 
+##### TDKW
 ### The‌‌ Dark‌‌ Web
 
 This is probably the most misinterpreted part of the Web.
@@ -172,7 +185,8 @@ These special software can access specific sites relating to their setup, these 
 
 It is **NOT ILLEGAL** to go on the darkweb! It **IS** illegal to go on the Darkweb and doing illegal actions such as buying illegal drugs!
 
-**How do I access the Dark Web?**
+##### HDIATDKW
+#### How do I access the Dark Web?
 
 The Darkweb normally is accessed by these special browsers with anonominity in-mind. This means these types of browsers allow for anonminity to it's users.
 
@@ -180,6 +194,7 @@ The type of Darkweb browser we will talk about today is the TOR Browser.
 
 ------------------------------------------------------------------------
 
+##### TTWB
 ## The‌‌ TOR‌‌ Web‌‌ Browser
 
 ![Tor Browser image](https://www.ghacks.net/wp-content/uploads/2018/09/tor-browser-8.0-new-onboarding.png)
@@ -188,6 +203,7 @@ Before we talk about how to use the Tor Browser, we will talk about it's history
 
 ------------------------------------------------------------------------
 
+##### TH
 ### TOR's‌‌ History
 
 > The Tor Project was founded by computer scientists Roger Dingledine, Nick Mathewson and five others in December 2006. The Electronic Frontier Foundation (EFF) acted as The Tor Project's fiscal sponsor in its early years, and early financial supporters of The Tor Project included the U.S. International Broadcasting Bureau, Internews, Human Rights Watch, the University of Cambridge, Google, and Netherlands-based Stichting.net. - [Wikipedia](https://en.wikipedia.org/wiki/The_Tor_Project)
@@ -203,6 +219,7 @@ Nowadays (the time of me writing this), around 80% of all funds for the TOR proj
 
 ------------------------------------------------------------------------
 
+##### HTW
 ### How‌‌ TOR‌‌ Works
 
 The TOR browser is not just "magically" anonymous. In order to make it so no one views the traffic of it's users or be able to tell where a connection is coming from, TOR uses a system called the "Onion Routing Protocol". 
@@ -225,6 +242,7 @@ For more information on The Onion Routing Protocol, please read [here](https://e
 
 ------------------------------------------------------------------------
 
+##### DT
 ### Downloading‌‌ TOR
 
 **Make sure to read the Saftey on the Darkweb and TOR before downloading it!**
@@ -236,30 +254,37 @@ DO **NOT** download the browser from any other site but this one!
 
 ------------------------------------------------------------------------
 
+##### SOTDAT
 ## Saftey‌‌ on‌‌ the‌‌ Darkweb‌‌ and‌‌ Tor
 
 ![saftey](https://ssd.eff.org/files/2019/04/02/tor_download.png)
 
 ------------------------------------------------------------------------
 
+##### OS
 ### Operating‌‌ Systems
 
 An operating system is the software that supports a computer's basic functions, such as scheduling tasks, executing applications, and controlling peripherals.
 
 There are five (at least well known) kinds of Operating Systems, **Windows**, **Mac OS**, **iOS/iPhone)**, **Android**, and **Linux**
 
+##### Windows
 #### Windows
 Simple answer, don't use this if you plan on accessing the Darkweb with TOR. Windows (because of it's wide use, not because of its system) is the most unsecure operating system to use.
 
+##### MOS
 #### Mac‌‌ OS
 Though it is generally the more secure than Windows machines, that doesn't mean it doesn't have any security flaws. Don't use this system if you're accesing the Darkweb either.
 
+##### iOS
 #### iOS/iPhones
 Honestly, this is one of the most secure operating systems you could possibly use. However, due to its lack of support for TOR and customization for security, I would not recommend it for Darkweb use.
 
+##### Android
 #### Android
 This is very similar to Windows, I would not recommend using this at all for Darkweb use.
 
+##### Linux
 #### Linux
 This one is the operating system with the most amount of support for TOR. Due to Linux being very secure (because of its limited use) and being extremley customizable, there are many distrobutions (versions) of linux that were made for Darkweb/Tor browsing. 
 
@@ -279,6 +304,7 @@ Heres a list of other Linux distrobutions that focus on security and not so much
 
 ------------------------------------------------------------------------
 
+##### CS
 ### Common‌‌ Sense
 Yep, a major way of being safe on the Darkweb or TOR in general is having common sense. 
 
@@ -300,12 +326,14 @@ Heres some tips that can help you when accessing the Darkweb through TOR:
 
 ------------------------------------------------------------------------
 
+##### TSF
 ### TOR‌‌ Security‌‌ Features
 
 On TOR, there are many pre-set security featues you can use to stay safe.
 
 ------------------------------------------------------------------------
 
+##### WOTD
 ### Websites‌‌ on‌‌ the‌‌ Darkweb‌‌ (.onion‌‌ sites)
 
 Though TOR can be used for normal anonymous searching, TOR also had websites that can be seen by the browser itself only.
@@ -322,44 +350,57 @@ These websites also may have a product you can buy. These products are not payed
 
 ------------------------------------------------------------------------
 
+##### GW
 #### Good‌‌ Websites
 ***Heres where I will list all the "good"/partially legal/society accepted websites that have been made because of TOR's services.***
 
+##### HW
 #### Hosting‌‌ Websites
 These are websites that, for a cost, alloww you to host your very own .onion website.
 
+##### MW
 #### Medication/Drug‌‌ Websites
 Yes, illegal drugs are bad. However, sites like these allow for people who, maybe because of their situation or country they live it, be able to buy medication for illnesses without going broke or going against their country's law.
 
+##### GEW
 #### Government‌‌ Expose‌‌ Websites 
 The government hides many things that could be critical information for the public to know about. These are sites that expose governments' "sketchy" actions without being silenced for getting the information illegaly.
 
+##### UNS
 #### Unfilitered‌‌ News‌‌ Sites
 These are sites similar to those on Government Expose Websites. These kinds of sites give information that was hidden from public eyes or are news based on things going on in the TOR network. These sites help you keep up to date with real world events going on without it being hidden or filtered.
 
+##### OTHER
 #### Other
 These kinds of sites are where people can simply post information or their thoughts without being judged by society. Yes, *some* of these sites might be... "weird", but they allow for people to share their ideas and thoughts. This includes forums, blogs, Politcal stuff, etc.
 
 ------------------------------------------------------------------------
 
+##### BW
 #### Bad‌‌ Websites
 ***Here is where I will list all the "bad" websites on TOR, their misconseptions, and please don't go on these types of sites. The only way you can go on these websites is if you choose to.***
 
+##### RR
 #### Red‌‌ Rooms
 Ok lets get this one out of the way. **RED ROOMS DO NOT EXIST**. This is an urban legend that would be shut-down immedietly if it really did exist, or would be so hidden from the public that they basically don't exist. Any websites that claim they host redrooms on the darkweb are lying and mainly are there to scam users out of their money.
 
+##### HW
 #### Hitman‌‌ Websites
 These websites are on a "greyish area" of wether they really exist or not. Hitman websites like these are normally false and have been known to give customer's information to local police. However, there is no proof that some websites ARE real or not. No one (who is good) wants to pay $20,000+ worth of bitcoin to hire a hitman on someone. For one, that person might go to jail because they hired someone. Another thing, they might be scammed of that large amount of money. These websites normally scam users out of their money and you should not be hiring hitmen anyways.
 
+##### PW
 #### Hacker/Pirating‌‌ Websites
 These sorts of websites are in a grey area as well, but for different reasins. Someone websites explain saftey on TOR or release information of code that have been hidden from the public, which may contain major exploits that need to be patched. You could debate whether sharing malicious code could be bad or good, as the code itself, when shared publically through TOR services, means there can be a patch found for it as well. On the other hand there are also hacker sites such as ones that allow users to hire hackers, buy/download pirated products, etc. 
 
+##### CPW
 #### Child/Animal‌‌ Pornography/Abuse Websites
 Yes, there are child pornography and animal pornography websites on TOR's services. There is not much to be said about these websites other than there are gigabites and terabytes of images or videos of torture, sex/rape, sex/rape torture, and abuse of children/animal. Stay as far away from these websites as you can, these are the extremley disturbing .onion sites.
 
+##### DW
 #### Medication/Drug‌‌ Websites
 Yes, there are websites where you can buy drugs/illegal medications. These sites are very "customer friendly" and ship drugs to users who want to buy them for quite cheap. 
 
+##### FW
 #### Gun/Firearm‌‌ Websites
 Yes, there are websites where you can buy illegal/legal firearms and have them shipped to you. However, not just the fact that they are illegal, but these sites can scam customers out of their money. Remember this is all anonymized, you can't call the police for someone you don't know and have no confirmation of paying, for stealing money from you after you tried buying a product illegally.
 
