@@ -10,9 +10,9 @@ This is a documentary on the TOR browser, parts of the web, how to stay anonymou
 
 <!-- vim-markdown-toc GFM -->
 
-* [The Internet VS The Web](# The Internet VS The Web)
-* * [What is the Internet?](# What is the Internet?)
-* * [What is the Web?](# What is the Web?)
+* [The Internet VS The Web](#The Internet VS The Web)
+* * [What is the Internet?](#What is the Internet?)
+* * [What is the Web?](#What is the Web?)
 * * * [URLs] (# URLs)
 * * * [Server (Normally HTTP)] (# Server (Normally HTTP))
 * * [Parts of the Web](# Parts of the Web)
